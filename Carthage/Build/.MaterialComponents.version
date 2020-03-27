@@ -1,0 +1,34 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "104.0.0",
+  "iOS" : [
+    {
+      "name" : "MDFTextAccessibility",
+      "hash" : "d9bc6f52f1c13cbdbc84feec7f46cbe5987f50c6df835e7c7b6e993897e68f19"
+    },
+    {
+      "name" : "MDFInternationalization",
+      "hash" : "4d3904ad2d967c51fb23862ce67cef0fc04cf1baa6fb60b5a71f296274fc3b49"
+    },
+    {
+      "name" : "MotionInterchange",
+      "hash" : "b1f3ea7bfb1214086bdb0509450c94bc2cb5dcbb03deed7be4b3a774bbdfebfb"
+    },
+    {
+      "name" : "MotionAnimator",
+      "hash" : "6413ff6f452d35eb57af31c1192ba59eb899ede36c68932b90da7509a37f10fc"
+    },
+    {
+      "name" : "MaterialComponents",
+      "hash" : "1470c9e8424b2afbc0cbf9f3fe38f00b458da1fcf304a6aed0b49c6e2201427b"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+$(SRCROOT)/Carthage/Build/iOS/MaterialComponents.framework
+$(SRCROOT)/Carthage/Build/iOS/MDFInternationalization.framework
+$(SRCROOT)/Carthage/Build/iOS/MDFTextAccessibility.framework
+$(SRCROOT)/Carthage/Build/iOS/MotionAnimator.framework
+$(SRCROOT)/Carthage/Build/iOS/MotionInterchange.framework
